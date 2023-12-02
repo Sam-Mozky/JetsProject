@@ -15,7 +15,6 @@ public class JetsApp {
 		System.out.println("Hello! Welcome to the Jet App");
 		launch.displayMenu();
 		
-		
 	}
 	
 	//Story 4
