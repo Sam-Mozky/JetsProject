@@ -32,7 +32,5 @@ public class JetsApp {
 		System.out.println("9. Quit");
 		
 	}
-	
-	
 
 }
